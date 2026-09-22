@@ -1,5 +1,6 @@
 ChordApp
 
 Aplikasi chord & lirik offline.
-
-Hello, selamat siang ini hari pertama aku kerja
+dengan database bejibun dari source terkenal
+req fitur/laporan bug : asepmaulana6692@gmail.com
+trakteer : dana/gopay/ovo : 0895626994567
