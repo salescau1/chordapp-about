@@ -2,5 +2,4 @@ ChordApp
 
 Aplikasi chord & lirik offline.
 
-(Ganti isi file ini sesuka kamu. Teks polos, UTF-8.
-Perubahan akan tampil di layar About aplikasi setelah cache refresh.)
+Hello, selamat siang ini hari pertama aku kerja
