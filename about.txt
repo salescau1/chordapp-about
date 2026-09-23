@@ -1,4 +1,5 @@
-KordApp adalah aplikasi chord & lirik offline untuk musisi. Cari lagu, simpan ke Setlist dan Favorit, atur transpose dan capo, lalu mainkan langsung dari katalog lokal tanpa perlu koneksi internet.
+KordApp adalah aplikasi Chord Music dengan database Offline
+dibuat senyaman mungkin dengan UI dan UX. berbeda dengan aplikasi chord lain.
 
 FITUR UTAMA
 - Katalog chord offline — ribuan lagu siap dibuka kapan saja.
@@ -12,4 +13,5 @@ KordApp dikembangkan oleh g0dzella di bawah bendera kekalclip. Misinya sederhana
 CATATAN KONTEN
 Chord dan lirik yang ditampilkan merupakan referensi komunitas untuk keperluan belajar dan latihan pribadi. Hak cipta lagu tetap milik pencipta dan pemegang hak masing-masing.
 
-Versi About ini dimuat dari sumber daring dan disimpan otomatis oleh aplikasi agar tetap bisa dibaca saat offline.
+Dukung saya sebagai Developer untuk tetap berkreasi.
+Trakteer : 0895626994567
